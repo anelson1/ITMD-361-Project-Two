@@ -66,3 +66,35 @@ h2 {
   line-height: 1;
   margin: 1.5em 0 0.5em 0;
 }
+
+header{
+	display: flex;
+	padding: 1rem;
+	background-color: mediumpurple;
+	color: white;
+}
+
+li {
+	display: inline;
+  }
+
+nav{
+	background-color: tomato;
+	color:white;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: grey;
+}
+
+a:active {
+  color: blue;
+} 
