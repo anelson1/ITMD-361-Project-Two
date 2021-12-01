@@ -85,6 +85,10 @@ main {
   margin: 1em;
 }
 
+#contact > li > a {
+  color: black;
+}
+
 figure {
   max-width: 100%;
   text-align: center;
@@ -106,7 +110,7 @@ a:visited {
 }
 
 a:hover {
-  color: white;
+  color: black;
 }
 
 a:active {
