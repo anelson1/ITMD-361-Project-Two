@@ -39,7 +39,7 @@ h1 {
 h2 {
   font-size: 1.5em;
   line-height: 1;
-  margin: 1.5em 0 0.5em 0;
+  margin: 0.5em 0 0.5em 0;
 }
 
 h3 {
@@ -58,8 +58,11 @@ header {
 
 section{
   border-left: 0.3125em solid red;
-  padding-left: 1em;
+  padding: 1em;
+  margin: 1em;
+  background-color: #CDCDCD;
 }
+
 #courses {
   margin: 1em;
 }
