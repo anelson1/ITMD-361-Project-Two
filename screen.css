@@ -56,6 +56,10 @@ header {
   color: white;
 }
 
+section{
+  border-left: 0.3125em solid red;
+  padding-left: 1em;
+}
 #courses {
   margin: 1em;
 }
